@@ -2,7 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@500&display=swap');
 
-/* top players style  */
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -21,6 +20,15 @@ main {
     padding: 30px;
 }
 
+hr {
+    border: 1px solid #D1D1D1;
+}
+
+/* top players style  */
+
+.top-players {
+    padding-bottom: 21px;
+}
 .section-title {
     color: #562EFF;
     font-size: 24px;
